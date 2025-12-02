@@ -256,8 +256,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false
 		},
@@ -283,6 +283,11 @@
 							"variableTypeCheck": true,
 							"assignmentExpression": "searchUserInput.access_token",
 							"assignedVariableName": "accessToken"
+						},
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "searchUserInput.client_ip",
+							"assignedVariableName": "clientIp"
 						}
 					],
 					"nodeIcon": "material-symbols:equal",
@@ -298,7 +303,7 @@
 				"width": 170,
 				"height": 122
 			},
-			"selected": false
+			"selected": true
 		},
 		{
 			"id": "logNode-73f600f3-3592-4826-ab5f-550e479501e2",
@@ -450,8 +455,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false
 		},
@@ -643,8 +648,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false,
 			"dragging": false
@@ -874,8 +879,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false
 		},
@@ -1143,8 +1148,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false
 		},
@@ -1186,8 +1191,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false
 		},
@@ -1229,8 +1234,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false,
 			"dragging": false
@@ -1571,8 +1576,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false,
 			"dragging": false
@@ -2182,7 +2187,7 @@
 				"width": 170,
 				"height": 122
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -2301,8 +2306,8 @@
 				}
 			},
 			"measured": {
-				"width": 110,
-				"height": 59
+				"width": 109,
+				"height": 58
 			},
 			"selected": false,
 			"dragging": false
@@ -3565,8 +3570,8 @@
 		}
 	],
 	"viewport": {
-		"x": -2834.691194068239,
-		"y": 432.29396275615863,
-		"zoom": 0.5759438211746787
+		"x": -812,
+		"y": -148,
+		"zoom": 1
 	}
 }
